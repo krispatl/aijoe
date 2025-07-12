@@ -1,4 +1,4 @@
-const serverURL = "https://ai-joe.glitch.me/";
+const serverURL = "https://aijoe.vercel.app/";
 
 window.addEventListener("DOMContentLoaded", function () {
   const messageInput = document.getElementById("messageInput");
