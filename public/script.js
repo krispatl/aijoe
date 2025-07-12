@@ -1,4 +1,4 @@
-const serverURL = "https://aijoe.vercel.app/";
+const serverURL = "https://aijoe-fhb3dgt3r-kris-ps-projects.vercel.app/";
 
 window.addEventListener("DOMContentLoaded", function () {
   const messageInput = document.getElementById("messageInput");
